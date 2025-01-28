@@ -1,0 +1,2 @@
+# Assignment-Anomaly-Detection-in-Industrial-Pipelines-using-Autoencoders
+Industrial pipelines require continuous monitoring to detect faults or anomalies that may lead to equipment failure or safety hazards. In this project, we construct an Autoencoder-based anomaly detection framework using a time-series dataset from the UCI Machine Learning Repository to identify deviations from normal operating conditions.
